@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Flask environment
+.env
+*.env
+
+# Local env files
+venv/
+ENV/
+env/
+
+# VS Code settings
+.vscode/
+
+# Mac OS files
+.DS_Store
+
+# Node modules (futureproof if using npm frontend tools)
+node_modules/
+
+# Build artifacts
+dist/
+build/
+*.log
+
+# System files
+Thumbs.db
